@@ -1,4 +1,4 @@
-# DispensadorAlimentos
+# Dispensador de alimentos para mascotas
 Este repositorio contiene el servidor y la página web para el manejo de datos de un dispensador de alimentos para mascota inteligente.
 
 Para utilizar la pagina web se debe instalar el programa xampp, una vez instalado debe de agregar la carpeta proyecto_dispensador en la carpeta htdocs que se encuentra dentro de la carpeta xampp ubicada en el disco local.
